@@ -26,11 +26,11 @@ To register for the Code Showcase, please fill out the form [here](https://peati
 
 ### Abstract Submission
 #### General Information:
-    - Abstract should be no longer than 5 pages
-    - Presentations should be no longer than 15 minutes
-    - Presentations are given 5 minutes of Q&A
-    - Technical talks will be grouped into sessions
-    - Abstract Template Available [here](https://science-tokyo.box.com/s/ukdu5xm1om8jetsmptswxds7bzcan6y3).
+ - Abstract should be no longer than 5 pages
+ - Presentations should be no longer than 15 minutes
+ - Presentations are given 5 minutes of Q&A
+ - Technical talks will be grouped into sessions
+ - Abstract Template Available [here](https://science-tokyo.box.com/s/ukdu5xm1om8jetsmptswxds7bzcan6y3).
 
 #### Potential Topics Include (but are not limited to):
  - Fundamentals of nuclear fuel cycle systems. Modeling. Development of analysis methods, uncertainty assessment, etc.
