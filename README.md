@@ -25,6 +25,12 @@ Some important details about the conference at a glance:
 | Student                    | Free                   |
 | Full Paper                 | Coming Soon            |
 
+### Preliminary Schedule
+A preliminary schedule of events can be found [here](https://nmb-code.jp/twofcs2026/detailed-time-schedule). 
+* April 15 will host the code showcase and a tour
+* April 16 will host plenaries, panels, technical sessions, and the kenpai party
+* April 17 will host panels, technical sessions, and the post session. 
+
 ### Code Showcase Registration
 To register for the Code Showcase, please fill out the form [here](https://peatix.com/us/event/4527366). The form is not available before September 1st, 2025.
 
